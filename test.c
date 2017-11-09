@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main( ){
-	printf("No me hice rico firmando cheques\n");
+	printf("Im a wanted man\n");
 	return 0;
 }
